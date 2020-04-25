@@ -1,0 +1,35 @@
+*{
+ margin:0;
+ padding:0;
+ box-sizing:border-box;   
+}
+
+body {
+height:100vh;
+display:flex;
+align-items:center;
+justify-content: center;
+flex-direction: column;
+font-family: "Raleway thin",sans-serif;
+background: #eee;
+}
+
+subs.odometer {
+font-size:48px;
+font font-family:"Raleway",sans-serif;
+background:red;
+color:white;
+font-weight:bold;
+border: radius 8px;
+min-width:300px;
+text-align: center;
+padding 8px
+letter:spacing 4px;
+}
+
+h2 {
+font-size: 32 px;
+text transform:uppercase;
+letter: spacing 8px;
+margin: 24 px
+}
